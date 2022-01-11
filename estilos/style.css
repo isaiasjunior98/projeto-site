@@ -5,13 +5,13 @@
 }
 
 body {
-background-color: beige;
+background-color: rgb(39, 137, 228);
 
 }
 
 main {
 
-    background-color: white;
+    background-color: rgb(19, 82, 255);
     width: 500px;
     margin: auto;
     padding: 10px;
